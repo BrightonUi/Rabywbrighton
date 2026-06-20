@@ -1,24 +1,44 @@
+<!--  ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+  ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+     ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+     ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+     ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+     ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  -->
+
 <a href="https://github.com/raby-william-brighton">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raby%20William%20Brighton&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UX%20Engineer%20%C2%B7%20Product%20Designer%20%C2%B7%20Framer%20Developer&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,100&height=200&text=%3E_%20RABY.EXE&fontSize=52&fontColor=00FF41&fontAlignY=42&animation=blinking&desc=UX%20Engineer%20%2F%2F%20Designer%20%2F%2F%20Builder%20%2F%2F%20Chennai%2C%20IN&descSize=15&descAlignY=68&descFontColor=39FF14&stroke=00FF41&strokeWidth=1" />
 </a>
 
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=raby-william-brighton&color=70a5fd&style=flat-square&label=Profile+Views">
-  <img src="https://komarev.com/ghpvc/?username=raby-william-brighton&color=70a5fd&style=flat-square&label=Profile+Views" />
+```bash
+$ whoami
+> raby-william-brighton
+
+$ cat /etc/identity
+> UX Engineer · Product Designer · Framer Developer · AI Builder
+
+$ ping status
+> ● ONLINE — Open to full-time & freelance
+```
+
+<br/>
+
+<a href="https://komarev.com/ghpvc/?username=raby-william-brighton&color=39ff14&style=flat-square&label=PROFILE_VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=raby-william-brighton&color=39ff14&style=flat-square&label=PROFILE_VIEWS" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/raby-william-brighton">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:rabyw.brighton@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=UX+Engineer+%7C+Product+Designer;Framer+Developer+%7C+No-Code+Builder;Designing+enterprise+UI+%40+Intellect+Design+Arena;Bridging+Design+%2B+Logic+%2B+Deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=750&background=00000000&lines=%24+sudo+design+--enterprise+--fintech;%24+framer+build+--animate+--deploy;%24+ai+init+--model+NVIDIA-NIM+--memory+ON;%24+git+push+origin+design-%2B-logic-%2B-deployment;%24+growup+--clients+30%2B+--creatives+100%2B+--ship+it" />
 
 </div>
 
@@ -259,14 +279,30 @@ and build AI-powered products by night 🌙";
 
 <div align="center">
 
-**Open to full-time roles & freelance projects · Based in Chennai · Available globally**
+```bash
+$ raby --connect
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raby-william-brighton)
+  ┌─────────────────────────────────────────────────┐
+  │  STATUS   : ● AVAILABLE for hire & freelance    │
+  │  LOCATION : Chennai, Tamil Nadu, IN  🇮🇳         │
+  │  TIMEZONE : IST (UTC +5:30)                     │
+  └─────────────────────────────────────────────────┘
+
+$ ping raby@growup
+> Response: Let's build something.
+```
+
+[![LinkedIn](https://img.shields.io/badge/%3E__CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raby-william-brighton)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabyw.brighton@gmail.com)
+[![Email](https://img.shields.io/badge/%3E__MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabyw.brighton@gmail.com)
 
-*"Design is not just what it looks like and feels like. Design is how it works."*
+<br/>
+
+```
+// "Design is how it works — not just how it looks."
+//  — raby.exe  [process terminated successfully ✓]
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,100&height=60&text=%5B%20EOF%20%5D&fontSize=14&fontColor=39FF14&fontAlignY=60" />
